@@ -24,10 +24,10 @@ Add Facebook chat spammer
 $ apt update && apt upgrade
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/KANG-NEWBIE/s-mbf
+$ git clone https://github.com/Sidik28KrW/mbf
 $ cd s-mbf
 $ python -m pip install -r req.txt
 $ python embf.py
 ```
 <h1>Note:</h1>
-Check my other repository <a href="https://github.com/KANG-NEWBIE?tab=repositories">here</a>
+Check my other repository <a href="https://github.com/Sidik28KrW/mbf?tab=repositories">here</a>
