@@ -1,6 +1,6 @@
 #!usr/bin/python3.7
-#Author: kang-newbie
-#contact: t.me/kang_nuubi
+#Author   : Ahmad Sidik
+#Whatsapp : 082141009908
 try:
 	import requests,os,sys,time,json
 	os.system('clear')
@@ -19,7 +19,7 @@ try:
 	ken=open('toket/token.txt','r').read()
 	print("""
 \t[ Facebook Comments Reaction ]
-\t      [ by: KANG-NEWBIE ]
+\t      [ by: AHMAD SIDIK ]
 """)
 	tid=input("[?] target id: ")
 	print()
@@ -42,7 +42,7 @@ try:
 				print("="*50)
 		ct+=1
 
-	lih=int(input("/kang-newbie_> "))
+	lih=int(input("/Ahmad Sidik_> "))
 	ree=requests.get('https://graph.facebook.com/v3.2/'+str(ids[lih-1])+'/comments?limit=5000&access_token='+ken)
 	jso=json.loads(ree.text)
 	print("""\n\t[react]
