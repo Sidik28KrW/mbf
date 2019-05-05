@@ -1,12 +1,12 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#Github: https://github.com/kang-newbie
+#Author: AHMAD SIDIK
+#Github: https://github.com/Sidik28KrW/mbf
 try:
 	import requests,json,sys,os,time
 	os.system('clear')
 	print("""
 \t[ Auto add friends from friends id ]
-\t        [ by : KANG-NEWBIE ]
+\t        [ by : AHMAD SIDIK ]
 """)
 	toket=open('toket/token.txt','r').read()
 	fid=input('[!] your target id: ')
