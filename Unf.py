@@ -30,7 +30,7 @@ try:
 		try:
 			print("""
 \t[Facebook Auto Unfriend Inactive Users]
-\t          [By : KANG-NEWBIE]
+\t          [By : Ahmad Sidik]
 """)
 			year=input("[?] YEAR: ")
 			fl=un().flist(toket)
@@ -48,7 +48,7 @@ try:
 		try:
 			print("""
 \t[Facebook Auto Unfriend All Users]
-\t        [By : KANG-NEWBIE]
+\t        [By : Ahmad Sidik]
 """)
 			fli=aun().flist(toket)
 			for i in fli:
@@ -60,7 +60,7 @@ try:
 	os.system('clear')
 	print("""
 \t[Facebook Auto Unfriend]
-\t   [By : KANG-NEWBIE]
+\t   [By : Ahmad Sidik]
 """)
 	print("""[1] auto unfriend all user
 [2] auto unfriend inactive user
