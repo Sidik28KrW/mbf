@@ -1,7 +1,7 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#contact: t.me/kang_nuubi
-#thanks to all member CRABS_ID (t.me/CRABS_ID)
+#Author   : AHMAD SIDIK
+#Whatsapp : 082141009908
+#thanks to all member SUNDANIS.CC
 
 '''
 recode? ok, but don't delete the author name
