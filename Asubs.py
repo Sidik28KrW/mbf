@@ -1,7 +1,7 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#Contact: t.me/kang_nuubi
-#github: github.com/kang-newbie
+#Author   : AHMAD SIDIK
+#Whatsapp : 082141009908
+#github   : https://github.com/Sidik28KrW/mbf
 '''
 recode? oke, but don't deleted name author
 '''
@@ -32,7 +32,7 @@ try:
   os.system('clear')
   print("""
 \t[ Auto Subscribe ]
-\t [By:KANG-NEWBIE]
+\t [By:AHMAD SIDIK]
 """)
   print("[INFO] List sparator 'email|pass'")
   inp=input("[+] list account: ")
