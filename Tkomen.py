@@ -1,6 +1,6 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#contact: t.me/kang_newbie
+#Author  : Ahmad Sidik
+#Whatsapp: 082141009908
 
 try:
 	import requests,json,sys,os,time
