@@ -1,6 +1,6 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#contact: t.me/kang_nuubi
+#Author   : AHMAD SIDIK
+#Whatsapp : 082141009908
 '''
 recode? ok, but don't delete name author
 '''
@@ -27,7 +27,7 @@ try:
 	
 	print("""
 	[ Auto Posting Status ]
-	   [By:KANG-NEWBIE]
+	   [By:AHMAD SIDIK]
 
 1.post in your timeline
 2.post in friends timeline
