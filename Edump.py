@@ -38,7 +38,7 @@ try:
 	os.system('clear')
 	print("""
 	[Facebook Dump Email]
-	   [By:KANG-NEWBIE]
+	   [By:AHMAD SIDIK]
 	""")
 	pil=input("[*] dump with target id? (y/n) ")
 	if pil == 'y' or pil == 'Y':
