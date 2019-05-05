@@ -50,11 +50,11 @@ try:
 	os.system('clear')
 	print("""
 	[Simple Multi BruteForce Email]
-	        [By:KANG-NEWBIE]
+	        [By:AHMAD SIDIK]
 1. Brute Yahoo
 2. Brute Gmail
 	""")
-	pil=int(input("/kang-newbie_> "))
+	pil=int(input("/Ahmad Sidik_> "))
 	try:
 		file=open(input("\n[?] Id List Target: ")).read().splitlines()
 		pas=input("[?] Password to Crack: ")
