@@ -1,8 +1,8 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#contact: t.me/kang_nuubi
-#github: github.com/kang-newbie
-try:
+#Author: Ahmad Sidik
+#Whatsapp: 082141009908
+#github: https://github.com/Sidik28KrW/mbf
+try
 	from multiprocessing.pool import ThreadPool
 	import os, requests, sys, json, time, hashlib, random, shutil
 except Exception as F:
@@ -25,9 +25,9 @@ y="\033[93m"
 #banner
 banner=("""%s
    _____ __  ______  ____
-  / __(_)  |/  / _ )/ __/ %sAuthor : KANG-NEWBIE%s
- _\ \/ / /|_/ / _  / _/	  %sContact: t.me/kang_nuubi%s
-/___/_/_/  /_/____/_/     %sversion: %s1.3%s"""%(c,g,c,g,c,g,c,w))
+  / __(_)  |/  / _ )/ __/ %sAuthor  : Ahmad Sidik
+ _\ \/ / /|_/ / _  / _/	  %sWhatsapp: 082141009908
+/___/_/_/  /_/____/_/     %sversion : %s1.3%s"""%(c,g,c,g,c,g,c,w))
 
 try:
 	toket=open('toket/token.txt')
