@@ -1,7 +1,7 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#Github: https://github.com/kang-newbie
-#Contact: t.me/kang_nuubi
+#Author   : Ahmad Sidik
+#Github   : https://github.com/Sidik28KrW/mbf
+#Whatsapp : 082141009908
 '''
 boleh recode asal cantumkan author aslinya goblok!
 '''
