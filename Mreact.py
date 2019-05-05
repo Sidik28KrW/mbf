@@ -1,7 +1,7 @@
 #!usr/bin/python3.7
-#Author: KANG-NEWBIE
-#Contact: t.me/kang_nuubi
-#github: github.com/kang-newbie
+#Author  : Ahmad Sidik
+#Whatsapp: 082141009908
+#github  : https://github.com/Sidik28KrW/mbf
 '''
 recode? oke, but don't deleted name author
 '''
